@@ -1,0 +1,6 @@
+- 👋 Hi, I’m Oneza Tehreem Khan
+- 👀 I’m interested in building application with my creativity
+- 🌱 I’m currently learning Java
+- 📫 How to reach me 
+- LInkedIn - https://www.linkedin.com/in/onezatehreemkhan/
+- Email - tehreem09oneza@gmail.com
