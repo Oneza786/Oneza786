@@ -4,3 +4,4 @@
 - 📫 How to reach me 
 - LInkedIn - https://www.linkedin.com/in/onezatehreemkhan/
 - Email - tehreem09oneza@gmail.com
+- Portfolio - https://onezabackenddeveloperportfolio.netlify.app/
