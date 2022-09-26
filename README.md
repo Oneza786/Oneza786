@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Oneza Tehreem Khan</h1>
-<h3 align="center">A passionate and hardworking Java Backend Developer</h3>
+<h3 align="center">A passionate Java Backend Developer</h3>
 
 - 🌱 I’m currently learning **Java Spring Boot**
 
