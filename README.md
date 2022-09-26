@@ -7,8 +7,6 @@
 
 - 📫 How to reach me **tehreem09oneza@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1_lAbIfhLwDfNk1SBftoTxIlpFxveUayA/view?usp=sharing](https://drive.google.com/file/d/1_lAbIfhLwDfNk1SBftoTxIlpFxveUayA/view?usp=sharing)
-
 - ⚡ Fun fact **I am an avid reader**
 
 <h3 align="left">Connect with me:</h3>
