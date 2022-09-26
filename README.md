@@ -5,7 +5,7 @@
 
 - 📫 How to reach me **tehreem09oneza@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1H2sx2ZJRaM6qM3KqTDRTbM4cwJIhH5ci/view?usp=sharing](https://drive.google.com/file/d/1H2sx2ZJRaM6qM3KqTDRTbM4cwJIhH5ci/view?usp=sharing)
+- 📄 Know about my experiences [https://drive.google.com/drive/u/0/my-drive](https://drive.google.com/drive/u/0/my-drive)
 
 - ⚡ Fun fact **I am an avid reader**
 
