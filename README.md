@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Oneza Tehreem Khan</h1>
 <h3 align="center">A passionate and hardworking Java Backend Developer</h3>
 
-- 👨‍💻 All of my projects are available at [https://onezabackenddeveloperportfolio.netlify.app/](https://onezabackenddeveloperportfolio.netlify.app/)
-
 - 📫 How to reach me **tehreem09oneza@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1_lAbIfhLwDfNk1SBftoTxIlpFxveUayA/view?usp=sharing](https://drive.google.com/file/d/1_lAbIfhLwDfNk1SBftoTxIlpFxveUayA/view?usp=sharing)
