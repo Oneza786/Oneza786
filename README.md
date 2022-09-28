@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Oneza Tehreem Khan</h1>
-<h3 align="center">A passionate Java Backend Developer</h3>
+<h3 align="center">A Java Backend Developer who is passionate about solving real-world problems. Focused on creating strong applications that communicate with web applications' Backends. Dependable team player who is motivated to work on resourful projects.  Capable of writing production ready code with more than 600 hours of hands-on coding experience</h3>
 
 - 🌱 I’m currently learning **Java Spring Boot**
 
